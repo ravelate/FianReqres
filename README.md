@@ -8,6 +8,7 @@ It is a User application that consists of show list of movie from Reqres Api, wh
 - LiveData
 - flow
 - Paging 3
+- datastore
 - Retrofit
 - OKHttp
 - Coroutine
